@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font displayname="方正兰亭黑字体">
+	<sans>
+		<file>
+			<filename>miao.ttf</filename>
+			<droidname>DroidSans.ttf</droidname>
+		</file>
+		<file><!-- 去掉这个，粗体字体会是默认的 -->
+			<filename>miao.ttf</filename>
+			<droidname>DroidSans-Bold.ttf</droidname>
+		</file>
+
+	</sans>
+</font>
